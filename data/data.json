@@ -1,0 +1,48 @@
+
+[
+    {
+        "ID": 1,
+        "Name": "HTML & CSS",
+        "Author": "Brendan Eich",
+        "Type": "Programming Language",
+        "Description": "HTML & CSS is a programming language that enables you to create dynamically updating content, control multimedia, animate images, and much more.",
+        "URL": "https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/613ZTDcDsiL._SY522_.jpg",
+        "Price":200
+    },
+    {
+        "ID": 2,
+        "Name": "JavaScript",
+        "Author": "Brendan Eich",
+        "Type": "Programming Language",
+        "Description": "JavaScript is a programming language that enables you to create dynamically updating content, control multimedia, animate images, and much more.",
+        "URL": "https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/71xRDbOOcuS._SY522_.jpg",
+        "Price":400
+    },
+    {
+        "ID": 3,
+        "Name": "Java",
+        "Author": "E Balaguruswami",
+        "Type": "Programming Language",
+        "Description": "Java is a programming language that enables you to create dynamically updating content, control multimedia, animate images, and much more.",
+        "URL": "https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/61FmuzUH8AL._SY522_.jpg",
+        "Price":450
+    },
+    {
+        "ID": 4,
+        "Name": "React JS",
+        "Author": "Mayur Patil",
+        "Type": "Programming Language",
+        "Description": "React JS is a programming language that enables you to create dynamically updating content, control multimedia, animate images, and much more.",
+        "URL": "https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/51eQekkEKoL._SY522_.jpg",
+        "Price":350
+    },
+    {
+        "ID": 5,
+        "Name": "DSA",
+        "Author": "Brendan Eich",
+        "Type": "Programming Language",
+        "Description": "DSA is very important topic, it can be done with any language that enables you to create dynamically updating content, control multimedia, animate images, and much more.",
+        "URL": "https://m.media-amazon.com/images/W/MEDIAX_849526-T3/images/I/714+tgyHDRL._SY522_.jpg",
+        "Price":500
+    }
+]
